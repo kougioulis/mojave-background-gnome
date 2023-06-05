@@ -1,4 +1,4 @@
-# mojave-background
+# mojave-background-gnome
 
 Mojave live wallpaper for the Gnome Shell.
 
